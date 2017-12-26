@@ -1,0 +1,12 @@
+tag 3.1.1
+897dccd73869b5abcad7e99e3f9eb7d13853f283
+Hendrik Leppkes <h.leppkes@gmail.com>
+2012-09-16 11:35:27 +0200
+
+Tag as 3.1.1
+
+
+--------------------
+
+Hendrik Leppkes:
+	- Add channeling ticks for Malefic Grasp and Harvest Life
